@@ -16,4 +16,8 @@ public class Numeros {
     public void setNum2(int num2) {
         this.num2 = num2;
     }
+
+    public void sumar(){
+
+    }
 }
