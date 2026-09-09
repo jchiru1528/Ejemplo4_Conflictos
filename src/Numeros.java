@@ -17,7 +17,7 @@ public class Numeros {
         this.num2 = num2;
     }
 
-    public void sumar(){
-
+    public int sumar(){
+        return num1 + num2;
     }
 }
